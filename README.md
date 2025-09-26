@@ -1,6 +1,6 @@
 # Hi, I'm Esha 
 
-Welcome to my GitHub profile! I am passionate about **AI , Data Science, Machine Learning **.  
+Welcome to my GitHub profile! I am passionate about **AI , Data Science, Machine Learning**.  
 Here you can explore my projects, contributions, and repositories where I share code, experiments, and open-source work.  
 
 ---
