@@ -1,12 +1,12 @@
-# Hi, I'm Esha 👋
+# Hi, I'm Esha 
 
-Welcome to my GitHub profile! I am passionate about **Data Science, AI and Machine Learning.
-
----
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshakunder&layout=compact&theme=radical)](https://github.com/Eshakunder)
+Welcome to my GitHub profile! I am passionate about **Data Science, Machine Learning, and Python Development**.  
+Here you can explore my projects, contributions, and repositories where I share code, experiments, and open-source work.  
 
 ---
+
+## 📊 My GitHub Activity
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eshakunder&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Eshakunder)
 
 ## 💻 Tech Stack & Skills
 ### Programming Languages
