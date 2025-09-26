@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I am passionate about **Data Science, AI and Machi
 ---
 
 ## 🔥 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=esha&show_icons=true&theme=radical)](https://github.com/esha)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esha&layout=compact&theme=radical)](https://github.com/esha)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eshakunder&show_icons=true&theme=radical)](https://github.com/Eshakunder)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshakunder&layout=compact&theme=radical)](https://github.com/Eshakunder)
 
 ---
 
