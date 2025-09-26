@@ -1,16 +1,12 @@
 # Hi, I'm Esha 
 
-Welcome to my GitHub profile! I am passionate about **Data Science, Machine Learning, and Python Development**.  
+Welcome to my GitHub profile! I am passionate about **AI , Data Science, Machine Learning **.  
 Here you can explore my projects, contributions, and repositories where I share code, experiments, and open-source work.  
 
 ---
 
-## 📊 My GitHub Activity
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eshakunder&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Eshakunder)
-
 ## 💻 Tech Stack & Skills
-### Programming Languages
-- Python 🐍 | SQL 🗄️
+- Python  | SQL | Power BI | Tableau | R 
 
 ### Data Science & ML
 - Pandas, NumPy, Matplotlib, Seaborn
